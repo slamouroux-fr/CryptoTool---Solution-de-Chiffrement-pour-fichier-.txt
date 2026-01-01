@@ -1,7 +1,7 @@
 # Documentation Technique - SecureCrypt Ultimate
 
 ## 1. Vue d'ensemble
-SecureCrypt Ultimate est une application de bureau Windows autonome permettant le chiffrement et le déchiffrement sécurisé de fichiers et de dossiers. Elle est développée en Python et compilée en code machine pour une portabilité maximale.
+SecureCrypt Ultimate est une application de bureau Windows autonome permettant le chiffrement et le déchiffrement sécurisé de fichiers et de dossiers. Elle est développée en Python et compilée en code machine pour une portabilité maximale. Pour executer le logiciel il faut télécharger le fichier executable (.exe)
 
 ## 2. Architecture Cryptographique
 
